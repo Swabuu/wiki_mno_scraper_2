@@ -3,7 +3,8 @@ Another Python script (first: https://github.com/Swabuu/wiki_mno_scraper) for we
 
 A Python script for web scraping the mobile network operator data found on the below Wikipedia links
  
-URLS = ["https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)",
+URLS = [
+        'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)',
         'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)',
         'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)',
         'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)',
