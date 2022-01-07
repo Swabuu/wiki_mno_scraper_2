@@ -1,4 +1,4 @@
-A Python script for web scraping the mobile network operator data found on Wikepedia's mobile operator wiki. Includes network owners as well as technology used.
+Another Python script (first: https://github.com/Swabuu/wiki_mno_scraper) for web scraping the mobile network operator data found on Wikepedia's mobile operator wiki. Includes network owners as well as technology used.
 # Wikipedia Mobile Network Operator Scraper
 
 A Python script for web scraping the mobile network operator data found on the below Wikipedia links
